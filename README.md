@@ -442,3 +442,4 @@ Lastly, while the `:per_attribute_iv_and_salt` mode is more secure than `:per_at
   future version unintentionally.
 * Commit, do not mess with rakefile, version, changelog, or history.
 * Send me a pull request. Bonus points for topic branches.
+
